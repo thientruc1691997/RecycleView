@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="data">
+        <item>
+            <title>"Sách Tài Chính Cá Nhân"</title>
+            <photo>ba</photo>
+        </item>
+        <item>
+            <title></title>
+            <photo></photo>
+        </item>
+    </array>
+
+
+</resources>
+
+
+
